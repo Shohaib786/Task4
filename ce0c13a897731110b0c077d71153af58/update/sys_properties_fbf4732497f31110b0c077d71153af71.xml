@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices> Assignment_2, Help Desk, NeedIt Users, Software, Hardware, Service Desk</choices>
+        <description>Please select the Assignment group which you want to select when the priority is critical</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_936754_ass3task4.assignment.group.priority.critical</name>
+        <read_roles/>
+        <suffix>assignment.group.priority.critical</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 08:57:22</sys_created_on>
+        <sys_id>fbf4732497f31110b0c077d71153af71</sys_id>
+        <sys_name>x_936754_ass3task4.assignment.group.priority.critical</sys_name>
+        <sys_package display_value="Ass3Task4" source="x_936754_ass3task4">ce0c13a897731110b0c077d71153af58</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ass3Task4">ce0c13a897731110b0c077d71153af58</sys_scope>
+        <sys_update_name>sys_properties_fbf4732497f31110b0c077d71153af71</sys_update_name>
+        <type>choicelist</type>
+        <value>Help Desk</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=fbf4732497f31110b0c077d71153af71"/>
+</record_update>
