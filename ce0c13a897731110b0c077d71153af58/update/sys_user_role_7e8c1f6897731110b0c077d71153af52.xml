@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_936754_ass3task4.task_4_1_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>task_4_1_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 07:10:12</sys_created_on>
+        <sys_id>7e8c1f6897731110b0c077d71153af52</sys_id>
+        <sys_name>x_936754_ass3task4.task_4_1_user</sys_name>
+        <sys_package display_value="Ass3Task4" source="x_936754_ass3task4">ce0c13a897731110b0c077d71153af58</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ass3Task4">ce0c13a897731110b0c077d71153af58</sys_scope>
+        <sys_update_name>sys_user_role_7e8c1f6897731110b0c077d71153af52</sys_update_name>
+    </sys_user_role>
+</record_update>
