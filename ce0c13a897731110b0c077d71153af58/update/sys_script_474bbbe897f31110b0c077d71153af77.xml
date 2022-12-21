@@ -33,12 +33,9 @@
 
     var group = gs.getProperty('x_936754_ass3task4.assignment.group.priority.critical');
     var gr = new GlideRecord('sys_user_group');
+	gr.addQuery('name',group);
     gr.query();
-    while (gr.next()) {
-        if (gr.name == group) {
-            var sysid = gr.getUniqueValue();
-        }
-    }
+    var sysid = gr.getUniqueValue();
     //gs.addInfoMessage(group);
     current.setValue('assignment_group', sysid);
 
